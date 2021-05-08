@@ -1,10 +1,6 @@
 {
-  "name": "neo-jsdoc",
-  "version": "1.0.0",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/neomjs/jsdoc.git"
-  },
+  "name": "jsdoc",
+  "private": true,
   "license": "Apache-2.0",
   "devDependencies": {
     "@babel/eslint-parser": "7.21.8",
